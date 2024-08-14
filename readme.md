@@ -1,8 +1,7 @@
-# SignalZero CTI Repo
 
 
 
-## CTI Backend Microservice
+## CTI Microservice
 
 
 
